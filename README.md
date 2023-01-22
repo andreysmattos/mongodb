@@ -1,5 +1,31 @@
 # MongoDB
 
+### Resumo do curso [MongoDB](https://www.udemy.com/course/mongodb-the-complete-developers-guide/)
+- Resumo feito em inglês para treino, não sou fluente ainda, então espere encontrar vários erros.
+
+### Conteúdo
+- Introdução
+- CRUD Básico
+- Esquemas e relacionamentos
+- Como estruturar Documentos.
+- Explorando o SHELL (**mongosh**)
+- Entendendo a fundo CRUD:
+- Operações de criação (insertOne, insertMany)
+- Operações de leitura (find, findOne)
+- Operações de atualização (updateOne, updateMany)
+- Operações de apagar (deleteOne, deleteMany)
+- Trabalhando com Indexes
+- Trabalhando com Geolocalizalçao
+- Trabalhando com Números
+- Segurança
+- Transações
+- Do shell para o Driver (exemplo em NodeJS)
+
+
+### Certificado
+![Untitled](UC-02b5fb02-3f1f-4e5c-8e3c-5f57ee957896.jpg)
+
+
 ### What is MongoDB?
 
 MongoDB is a document-oriented NoSQL database used for high volume data store.
