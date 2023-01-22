@@ -3,6 +3,8 @@
 ### Resumo do curso [MongoDB](https://www.udemy.com/course/mongodb-the-complete-developers-guide/)
 - Resumo feito em inglês para treino, não sou fluente ainda, então espere encontrar vários erros.
 
+### Duração: 17,5 horas
+
 ### Conteúdo
 - Introdução
 - CRUD Básico
@@ -20,6 +22,9 @@
 - Segurança
 - Transações
 - Do shell para o Driver (exemplo em NodeJS)
+
+
+
 
 
 ### Certificado
